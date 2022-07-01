@@ -1,0 +1,6 @@
+{
+    "parent": "block/redstone_wire/scouter",
+    "textures": {
+        "power": "block/redstone_wire/powerlevel13"
+    }
+}

@@ -1,0 +1,10 @@
+Credits:
+Little Improvements by Beatso.
+https://www.planetminecraft.com/texture-pack/little-improvements-redstone/
+
+Groovy Lever, directional hoppers, sticky piston sides, redstone dust power level and observer top fix are all credit to Vanilla Tweaks.
+Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
+
+Daylight sensors are credit to Creativity Shark.
+https://www.planetminecraft.com/texture-pack/visual-sensors/
+
